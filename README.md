@@ -1,6 +1,6 @@
 <!-- Banner superior con estilo tech -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/oscarvasquez/oscarvasquez/main/assets/banner-tech.svg" alt="Oscar Vázquez | Fullstack Developer" width="100%">
+  <img src="./assets/banner.png" alt="Oscar Vázquez Banner" width="100%" />
 </p>
 
 <h1 align="center">Hey, soy Oscar Vázquez 👨‍💻🚀</h1>
