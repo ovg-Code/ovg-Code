@@ -1,67 +1,80 @@
-<!-- Banner -->
+<!-- Banner superior con estilo tech -->
 <p align="center">
-  <img src="https://github.com/oscarvasquez/oscarvasquez/blob/main/banner.svg" alt="Oscar Vázquez Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/oscarvasquez/oscarvasquez/main/assets/banner-tech.svg" alt="Oscar Vázquez | Fullstack Developer" width="100%">
 </p>
 
-<h1 align="center">¡Hola, soy Oscar Vázquez! 👋</h1>
+<h1 align="center">Hey, soy Oscar Vázquez 👨‍💻🚀</h1>
+<h3 align="center">🛠 Fullstack Developer | 🧠 SaaS Architect | 🇵🇦 Made in Panamá</h3>
 
 <p align="center">
-  🧠 Fullstack Developer | 🛠 SaaS Architect | 🚀 Builder of ideas in motion
-</p>
-
----
-
-### 💼 ¿Quién soy?
-Soy un desarrollador panameño con visión emprendedora. Actualmente lidero el desarrollo de plataformas como:
-
-- 📦 **[FutureBox](https://futurebox.com)** – PO Box inteligente con enfoque internacional.
-- 👷‍♂️ **[WorkExpress](https://workexpress.com)** – Plataforma laboral con impacto social.
-- 🧳 **[PreArrival](https://prearrival.app)** – SaaS turístico para upselling de experiencias.
-
-Me especializo en construir productos completos, desde la idea hasta el despliegue, usando tecnologías modernas y arquitectura eficiente.
-
----
-
-### 🧰 Stack Tecnológico
-
-- **Frontend:** React • Next.js • TailwindCSS • Zustand
-- **Backend:** NestJS • Supabase • PostgreSQL • Prisma • Edge Functions
-- **DevOps:** Docker • Railway • Supabase CLI • GitHub Actions
-- **Otros:** Stripe • NMI API • JWT • RLS (Row-Level Security) • WebSockets
-
----
-
-### 📊 Stats en GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oscarvasquez&show_icons=true&theme=radical" alt="Oscar GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarvasquez&layout=compact&theme=radical" alt="Oscar Top Languages" />
+  <em>Código limpio, visión clara y productos que generan impacto real.</em>
 </p>
 
 ---
 
-### 🧪 Proyectos Recientes
+## 🌍 Sobre mí
 
-- 💡 **SaaS Factory** – Arquitectura multitenant con roles dinámicos, Supabase y Next.js.
-- 🤖 **Evolution API + AI Agents** – Automatización de atención con Webhooks, WebSockets y más.
-- 🧬 **IA para Prótesis & Alzheimer** – Investigación aplicada en biomecánica y prevención cognitiva.
+Soy un desarrollador **fullstack** con visión estratégica, obsesionado con construir **productos escalables**, rápidos y listos para producción. Me especializo en plataformas SaaS con arquitectura multitenant, edge functions, autenticación segura y despliegues modularizados.
+
+📌 **Actual**: Fundador y CTO de [Kuarco.dev](https://kuarco.dev)  
+⚙️ **Trabajos recientes**:  
+- 🧰 **WorkExpress** – Plataforma laboral inteligente  
+- 🤖 **JOSH** – Agentes IA conversacionales  
+- 🧪 **R&D** – Proyectos en prótesis inteligentes y prevención de Alzheimer con IA
 
 ---
 
-### 📍 Desde Panamá para el mundo
-Comprometido con la excelencia técnica y el impacto real. Estoy construyendo el futuro una línea de código a la vez.
+## 🧠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css,nestjs,nodejs,postgres,supabase,prisma,docker,linux,git,github,vscode" />
+</p>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Architecture-SaaS Multitenant-blueviolet?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevOps-Docker%20%7C%20Railway%20%7C%20Supabase-black?style=for-the-badge&logo=docker" />
+  <img src="https://img.shields.io/badge/Edge Computing-Supabase%20Edge%20Functions-green?style=for-the-badge&logo=supabase" />
+</div>
 
 ---
 
-### 🤝 Conectemos
+## 📊 GitHub Stats
 
-- 🧑‍💼 [LinkedIn](https://linkedin.com/in/oscarvasquez)
-- 🖥️ [Portfolio / Coming soon](https://kuarco.dev)
-- 📫 oscar@kuarco.dev
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oscarvasquez&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarvasquez&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+</div>
+
+---
+
+## 🚀 En lo que estoy trabajando
+
+| Proyecto     | Stack principal                                         | Descripción breve                                      |
+|--------------|----------------------------------------------------------|--------------------------------------------------------|
+| `WorkExpress`| Next.js · NestJS · PostgreSQL · Prisma                  | Matching de empleo inteligente                        |
+| `JOSH AI`    | Edge Functions · Supabase · WebSockets · NLP            | Agentes conversacionales personalizados               |
+| `Kuarco.dev` | Investigación + Backend modularizado con microservicios | Innovación en IA, salud, automatización y más         |
+
+---
+
+## 📫 ¿Hablamos?
+
+<div align="center">
+  <a href="mailto:oscar@kuarco.dev">
+    <img src="https://img.shields.io/badge/Email-oscar@kuarco.dev-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/oscarvasquez/">
+    <img src="https://img.shields.io/badge/LinkedIn-Oscar%20Vázquez-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://kuarco.dev">
+    <img src="https://img.shields.io/badge/Portfolio-kuarco.dev-black?style=for-the-badge&logo=vercel" />
+  </a>
+</div>
 
 ---
 
 <p align="center">
-  <i>“Disciplina extrema + visión clara = impacto imparable.”</i>
+  <strong><i>"Disciplina extrema. Código limpio. Impacto real."</i></strong>
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer"/>
 </p>
