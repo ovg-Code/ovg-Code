@@ -16,7 +16,7 @@
 
 Soy un desarrollador **fullstack** con visión estratégica, obsesionado con construir **productos escalables**, rápidos y listos para producción. Me especializo en plataformas SaaS con arquitectura multitenant, edge functions, autenticación segura y despliegues modularizados.
 
-📌 **Actual**: [Kuarco.ia](https://kuarco.ia) 
+📌 **Actual**: [Kuarco.com](https://kuarco.com) 
 
 ---
 
@@ -41,17 +41,6 @@ Soy un desarrollador **fullstack** con visión estratégica, obsesionado con con
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarvasquez&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 </div>
 
----
-
-## 🚀 En lo que estoy trabajando
-
-| Proyecto     | Stack principal                                         | Descripción breve                                      |
-|--------------|----------------------------------------------------------|--------------------------------------------------------|
-| `WorkExpress`| Next.js · NestJS · PostgreSQL · Prisma                  | Matching de empleo inteligente                        |
-| `JOSH AI`    | Edge Functions · Supabase · WebSockets · NLP            | Agentes conversacionales personalizados               |
-| `Kuarco.dev` | Investigación + Backend modularizado con microservicios | Innovación en IA, salud, automatización y más         |
-
----
 
 ## 📫 ¿Hablamos?
 
