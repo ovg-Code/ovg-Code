@@ -1,6 +1,6 @@
 <!-- Banner superior con estilo tech -->
 <p align="center">
-  <img src="./assets/banner.png" alt="Oscar Vázquez Banner" width="100%" />
+  <img src="/bannner.png" alt="Oscar Vázquez Banner" width="70%" />
 </p>
 
 <h1 align="center">Hey, soy Oscar Vázquez 👨‍💻🚀</h1>
@@ -16,11 +16,7 @@
 
 Soy un desarrollador **fullstack** con visión estratégica, obsesionado con construir **productos escalables**, rápidos y listos para producción. Me especializo en plataformas SaaS con arquitectura multitenant, edge functions, autenticación segura y despliegues modularizados.
 
-📌 **Actual**: Fundador y CTO de [Kuarco.dev](https://kuarco.dev)  
-⚙️ **Trabajos recientes**:  
-- 🧰 **WorkExpress** – Plataforma laboral inteligente  
-- 🤖 **JOSH** – Agentes IA conversacionales  
-- 🧪 **R&D** – Proyectos en prótesis inteligentes y prevención de Alzheimer con IA
+📌 **Actual**: [Kuarco.ia](https://kuarco.ia) 
 
 ---
 
