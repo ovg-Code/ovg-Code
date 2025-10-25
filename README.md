@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hey, soy Oscar Vázquez 👨‍💻🚀</h1>
-<h3 align="center">🛠 Fullstack Developer | 🧠 SaaS Architect | 🇵🇦 Made in Panamá</h3>
+<h3 align="center">🛠 Fullstack Developer | 🧠 SaaS Architect | 🤖 GEN IA ENGINEER | 🇵🇦 Made in Panamá</h3>
 
 <p align="center">
   <em>Código limpio, visión clara y productos que generan impacto real.</em>
@@ -16,7 +16,7 @@
 
 Soy un desarrollador **fullstack** con visión estratégica, obsesionado con construir **productos escalables**, rápidos y listos para producción. Me especializo en plataformas SaaS con arquitectura multitenant, edge functions, autenticación segura y despliegues modularizados.
 
-📌 **Actual**: [Kuarco.com](https://kuarco.com) 
+📌 **Actual**: [grupoTX.com](https://grupotx.com) 
 
 ---
 
